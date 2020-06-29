@@ -1,0 +1,6 @@
+framework module Pods_Kiroku {
+  umbrella header "Pods-Kiroku-umbrella.h"
+
+  export *
+  module * { export * }
+}
